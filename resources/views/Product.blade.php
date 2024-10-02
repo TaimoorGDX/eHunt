@@ -41,9 +41,9 @@ document.addEventListener('DOMContentLoaded', function() {
     <div class="icon-sidebar">
       <div class="top-icons">
         <img src="{{ asset('images/Subtract.svg') }}" id="subtract" alt="icon 1" />
-        <img src="{{ asset('images/Products.png') }}" id="products" alt="icon 2" />
-        <img src="{{ asset('images/Alerts.png') }}" id="notification" alt="icon 3" />
-        <img src="{{ asset('images/Alerts icon.png') }}" id="account" alt="icon 4" />
+        <img src="{{ asset('images/Product.svg') }}" id="sideicon" alt="icon 2" />
+        <img src="{{ asset('images/AlertsMenu.svg') }}" id="sideicon" alt="icon 3" />
+        <img src="{{ asset('images/user.svg') }}" id="sideicon" alt="icon 4" />
       </div>
       <div class="bottom-icon">
         <img src="{{ asset('images/Englishmenu.png') }}" id="English" alt="icon 5" />

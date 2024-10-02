@@ -24,7 +24,7 @@
           <div class="frame-container">
             <div class="anker-powercore-10000-portable-wrapper">
               <b class="anker-powercore-10000"
-                >Anker PowerCore 10000 Portable Charger Portable Charger</b
+                >Iphone 16 pro max</b
               >
             </div>
             <div class="description-copy-4-wrapper">
